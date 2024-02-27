@@ -1,16 +1,14 @@
 # ssc
 
-A new Flutter project.
+Mobile Application Assignment Documentation.
 
 ## Getting Started
+This documentation serves as a comprehensive guide for the Flutter task i've been assigned.
+This project is an assignment for ssc.
 
-This project is a starting point for a Flutter application.
+##Task Overview
+my objective is to develop a small mobile application using the Flutter framework. The application should incorporate specific modules and adhere to the provided design layout and assets. This task is designed to showcase my proficiency in Flutter development, problem-solving skills, and adherence to design specifications.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
